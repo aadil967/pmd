@@ -1,0 +1,18 @@
+    \documentclass{article}
+\usepackage{graphics}
+\begin{document}
+\title{introduction to \ Latex{}}
+\author{prof}
+\maketitle
+\begin{abstract}
+this thhe document for my imamagement database
+\end{abstract}
+\section{introduction}
+this is the architecturel database
+\subsection{javascript coding design}
+\subsection{javascript coding design}
+\section{conclusion}
+i  wnt to!!!!
+
+
+\end{document}
